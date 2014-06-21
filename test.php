@@ -1,4 +1,4 @@
 <?php
 echo strlen("Jon Jacobs’ 1937 Chevy Pickup – A Time Capsule In the 21st Century");
-echo "Hello 1";
+echo "Hello world 1";
 ?>
