@@ -1,5 +1,5 @@
 <?php
-echo 'Dennis Dinh tufnghd';
+echo 'test conflict';
 echo "Hello world 1";
 echo "Hello world 2";
 echo "Hello world 3";
